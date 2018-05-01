@@ -1,0 +1,23 @@
+[
+  {
+    "agentID": 1,
+    "companyName": "Flights Centre",
+    "companyAddress": "123 Collins Street, Melbourne - 3000",
+    "contactName": "Mark Anderson",
+    "contactPhone": "0412 123 123"
+  },
+  {
+    "agentID": 2,
+    "companyName": "Travel Centre",
+    "companyAddress": "1 Swanston St, Melbourne - 3000",
+    "contactName": "Jack Warner",
+    "contactPhone": "0412 123 123"
+  },
+  {
+    "agentID": 3,
+    "companyName": "booking.com",
+    "companyAddress": "-",
+    "contactName": "Anonymous",
+    "contactPhone": "-"
+  }
+]

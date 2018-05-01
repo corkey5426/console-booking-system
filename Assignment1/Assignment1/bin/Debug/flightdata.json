@@ -1,0 +1,38 @@
+[
+  {
+    "flightID": "F120",
+    "flightType": "A380",
+    "flightFrom": "Melbourne",
+    "flightTo": "Singapore",
+    "flightDateTime": "2018-06-20T23:00:00",
+    "ticketPrice": 320.0,
+    "capacity": 450
+  },
+  {
+    "flightID": "F180",
+    "flightType": "A330",
+    "flightFrom": "Melbourne",
+    "flightTo": "Sydney",
+    "flightDateTime": "2018-03-15T12:00:00",
+    "ticketPrice": 120.0,
+    "capacity": 250
+  },
+  {
+    "flightID": "F196",
+    "flightType": "B737",
+    "flightFrom": "Canberra",
+    "flightTo": "Melbourne",
+    "flightDateTime": "2018-07-15T08:00:00",
+    "ticketPrice": 60.0,
+    "capacity": 100
+  },
+  {
+    "flightID": "R432",
+    "flightType": "B777",
+    "flightFrom": "Melbourne",
+    "flightTo": "Sydney",
+    "flightDateTime": "2019-01-19T10:30:00",
+    "ticketPrice": 260.0,
+    "capacity": 410
+  }
+]

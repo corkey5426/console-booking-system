@@ -1,0 +1,10 @@
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Corkey\Documents\VS Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete

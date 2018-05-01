@@ -1,0 +1,62 @@
+[
+  {
+    "flightID": "f120",
+    "bookingID": 1,
+    "ticketAgent": "",
+    "customerName": "John Doe",
+    "customerPhone": "0455 121 663",
+    "numberOfTickets": 3,
+    "bookingPrice": 960.0,
+    "bookingStatus": true
+  },
+  {
+    "flightID": "f120",
+    "bookingID": 2,
+    "ticketAgent": "World Booking Centre",
+    "customerName": "Mary Jane",
+    "customerPhone": "0427 196 445",
+    "numberOfTickets": 4,
+    "bookingPrice": 1280.0,
+    "bookingStatus": false
+  },
+  {
+    "flightID": "f120",
+    "bookingID": 3,
+    "ticketAgent": "Travel Centre",
+    "customerName": "Peter Parker",
+    "customerPhone": "0409 665 123",
+    "numberOfTickets": 1,
+    "bookingPrice": 320.0,
+    "bookingStatus": true
+  },
+  {
+    "flightID": "f196",
+    "bookingID": 4,
+    "ticketAgent": "",
+    "customerName": "Joe Bloggs",
+    "customerPhone": "0417 485 122",
+    "numberOfTickets": 90,
+    "bookingPrice": 5400.0,
+    "bookingStatus": false
+  },
+  {
+    "flightID": "r432",
+    "bookingID": 6,
+    "ticketAgent": "booking.com",
+    "customerName": "Alice Hope",
+    "customerPhone": "02 9774 4152",
+    "numberOfTickets": 150,
+    "bookingPrice": 39000.0,
+    "bookingStatus": true
+  },
+  {
+    "flightID": "r432",
+    "bookingID": 7,
+    "ticketAgent": "booking.com",
+    "customerName": "Tina Stuart",
+    "customerPhone": "0412 447 897",
+    "numberOfTickets": 20,
+    "bookingPrice": 5200.0,
+    "bookingStatus": false
+  }
+]
